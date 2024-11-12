@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "author": "张登川 <644365603@qq.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.5.1",
+    "ahooks": "^3.8.1",
+    "antd": "^5.22.0",
+    "classnames": "^2.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "umi": "^4.3.31"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.13",
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.3"
+  }
+}
